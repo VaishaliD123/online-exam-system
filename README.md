@@ -19,6 +19,9 @@
 
 
 <table width="100%">
+<p align="center">
+  <img src="https://github.com/VaishaliD123/online-exam-system/blob/main/Screenshot%202026-01-05%20214824.png?raw=true" width="90%">
+</p>
 
 
 <tr>
